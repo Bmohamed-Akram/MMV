@@ -1,0 +1,14 @@
+#map{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+h3{
+    background-color: rgb(175, 26, 0);
+    border-radius: 8px;
+    padding: 4px;
+    color: white;
+}
